@@ -14,5 +14,5 @@ Please go over the following guidelines while reporting issues on Github.
 * _Requesting Features_ : If you would like us to support a new feature, please tag your issue as a [REQUEST] in the title. 
 
 
-Subscribe to our [blog](https://medium.com/bodo-ai) to stay up to date on Bodo. Also check out our [YouTube](https://www.youtube.com/channel/UCSOD99SjLAX-UR_gGRNQzTA) channel where we post tutorials, benchmarks and more Bodo content. 
+Check out our [blog](https://bodo.ai/blog) for the latest updates from Bodo. Also check out our [YouTube](https://www.youtube.com/channel/UCSOD99SjLAX-UR_gGRNQzTA) channel where we post tutorials, benchmarks and more Bodo content. 
 
